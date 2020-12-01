@@ -1,6 +1,6 @@
 # Jgui
 
-Run demo via Linux terminal:
+Run the demo application through the Linux terminal.
 
 debian@debian:~/jgui/server$ php -S localhost:8000
 
