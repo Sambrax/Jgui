@@ -6,7 +6,7 @@ Requirements:
 
 - PHP
 
-Install:
+INSTALL:
 
 debian@debian:~$ **sudo apt install gjs**
 
