@@ -6,7 +6,7 @@ Run the demo application through the Linux terminal.
 
 ### SERVER
 
-debian@debian:~/jgui/server$ php -S localhost:8000
+debian@debian:~/jgui/server$ **php -S localhost:8000**
 
 ---
 
