@@ -6,13 +6,13 @@ Run the demo application through the Linux terminal.
 
 ### SERVER
 
-debian@debian:~/jgui/server$ **php -S localhost:8000**
+debian@debian:~/Jgui/demo/server$ **php -S localhost:8000**
 
 ---
 
 ### CLIENT
 
-debian@debian:~/jgui/client$ gjs index.js
+debian@debian:~/Jgui/demo/client$ **gjs index.js**
 
 ---
 
