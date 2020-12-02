@@ -1,5 +1,19 @@
 # Jgui
 
+Requirements:
+
+- GJS
+
+- PHP
+
+Install:
+
+debian@debian:~$ sudo apt install gjs
+
+debian@debian:~$ sudo apt install php7.3-cli
+
+---
+
 Run the demo application through the Linux terminal.
 
 ---
